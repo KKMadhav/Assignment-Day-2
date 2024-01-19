@@ -1,0 +1,27 @@
+													Assignment Day 2
+
+1. What is a computer?
+Ans: A computer is an electronic device that takes input and gives the output according to the input.
+
+2. What is a RAM?
+Ans:- RAM is an acronym for Random Access Memory and it is directly connected to the CPU. It is fast and volatile in nature, and its size is small and compatible.
+
+3. Where is data stored in a computer?
+Ans:- Data is mainly stored in secondary memory which is a hard disk or SSD(Solid State Drive), which is non-volatile and slow in nature and also large in size, and it is not directly connected to the CPU.
+
+4. What is that input device used to type text and numbers on a document in the computer system?
+Ans:- A keyboard is a device that is used to type text and numbers on a document in the computer system.
+
+5. What are the output devices?
+Ans:- Output devices are the hardware devices that mainly give the output to the user.
+Examples of some output devices are like monitors, printers, speakers, headphones, etc.
+
+6. Which is the input device that allows a user to move the cursor or pointer on the screen?
+Ans: The mouse is the input device that allows a user to move the cursor or pointer on the screen.
+
+7. Which language is directly understood by the computer without a translation program?
+Ans:- The language that is understood by the computer is Machine language or Machine code without a translation program.
+
+8. What are Input devices?
+Ans:- Input devices are the devices that help the computer take the input or instruction from the user.
+Examples of some input devices are like keyboards, mice, cameras, microphones, scanners, etc.
